@@ -1,0 +1,15 @@
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\bin\Debug\net9.0\C3T5.exe
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\bin\Debug\net9.0\C3T5.deps.json
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\bin\Debug\net9.0\C3T5.runtimeconfig.json
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\bin\Debug\net9.0\C3T5.dll
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\bin\Debug\net9.0\C3T5.pdb
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\obj\Debug\net9.0\C3T5.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\obj\Debug\net9.0\C3T5.AssemblyInfoInputs.cache
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\obj\Debug\net9.0\C3T5.AssemblyInfo.cs
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\obj\Debug\net9.0\C3T5.csproj.CoreCompileInputs.cache
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\obj\Debug\net9.0\C3T5.sourcelink.json
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\obj\Debug\net9.0\C3T5.dll
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\obj\Debug\net9.0\refint\C3T5.dll
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\obj\Debug\net9.0\C3T5.pdb
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\obj\Debug\net9.0\C3T5.genruntimeconfig.cache
+C:\code\csharp\CSharpLearn\CSharpLearn\Chaper3\C3T5\C3T5\C3T5\obj\Debug\net9.0\ref\C3T5.dll
