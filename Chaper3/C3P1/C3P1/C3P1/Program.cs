@@ -1,22 +1,24 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace C3P1
+namespace Demo
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            Console.WriteLine("Please Enter Your Home Address:");
-            string address = Console.ReadLine();
-            Console.WriteLine("Please Enter Your City:");
-            string city = Console.ReadLine();
-            Console.WriteLine("Please Enter Your State:");
-            string state = Console.ReadLine();
-            Console.WriteLine("Please Enter Your Zip Code:");
-            string zip = Console.ReadLine();
-            Console.WriteLine("Please Enter Your Country:");
-            string country = Console.ReadLine();
-            Console.WriteLine("Your Address is: \n" + address + "\n" + city + ", " + state + " " + zip + "\n" + country);
+            Console.Write("Enter your Home Address:");
+            string home = Console.ReadLine();
+            Console.Write("Enter Your Work Address:");
+            string company = Console.ReadLine();
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("\n------Your Address Information------");
+            Console.WriteLine("Home" + home);
+            Console.WriteLine("Company" + company);
+            Console.ReadLine();
         }
     }
 }
