@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C3P4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baf0cbb45db744d97f67751e346a5f01b88942a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acece3d1f530f505a25d8ff4e22065107b45dc11")]
 [assembly: System.Reflection.AssemblyProductAttribute("C3P4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C3P4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
