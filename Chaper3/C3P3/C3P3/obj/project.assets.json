@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\csharp\\CSharpLearn\\CSharpLearn\\Chaper3\\C3P2\\C3P2\\C3P2\\C3P2.csproj",
-      "projectName": "C3P2",
-      "projectPath": "C:\\code\\csharp\\CSharpLearn\\CSharpLearn\\Chaper3\\C3P2\\C3P2\\C3P2\\C3P2.csproj",
+      "projectUniqueName": "C:\\code\\csharp\\CSharpLearn\\CSharpLearn\\Chaper3\\C3P3\\C3P3\\C3P3.csproj",
+      "projectName": "C3P3",
+      "projectPath": "C:\\code\\csharp\\CSharpLearn\\CSharpLearn\\Chaper3\\C3P3\\C3P3\\C3P3.csproj",
       "packagesPath": "C:\\Users\\shaon\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\csharp\\CSharpLearn\\CSharpLearn\\Chaper3\\C3P2\\C3P2\\C3P2\\obj\\",
+      "outputPath": "C:\\code\\csharp\\CSharpLearn\\CSharpLearn\\Chaper3\\C3P3\\C3P3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
