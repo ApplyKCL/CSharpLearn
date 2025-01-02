@@ -1,27 +1,29 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace C3P2
+namespace Demo
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            string srch = "";
-            string input = "";
-            while (input != "END")
-            {
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Enter the Search String: ");
-                input = Console.ReadLine();
-                if(!srch.Contains(input)){
-                    srch += input + " ";
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine(srch);
-                    Console.ForegroundColor = ConsoleColor.White;
-                    Console.WriteLine("==================================");
-                }
-                
-            }
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Python");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("============================================================== ");
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Write(" Enter The Search Words:");
+            string words = Console.ReadLine();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Python  " + words);
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(" ============================================================== ");
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Write(" Enter The Search Words:");
+            Console.ReadLine();//定位控制台窗体
         }
     }
 }
