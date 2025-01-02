@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "88Djs650CwE=",
+  "dgSpecHash": "YKASbl3st8M=",
   "success": true,
   "projectFilePath": "C:\\code\\csharp\\CSharpLearn\\CSharpLearn\\Chaper3\\C3P2\\C3P2\\C3P2\\C3P2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\shaon\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512"
+  ],
   "logs": []
 }
