@@ -1,0 +1,15 @@
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\bin\Debug\net9.0\C5P2.exe
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\bin\Debug\net9.0\C5P2.deps.json
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\bin\Debug\net9.0\C5P2.runtimeconfig.json
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\bin\Debug\net9.0\C5P2.dll
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\bin\Debug\net9.0\C5P2.pdb
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\obj\Debug\net9.0\C5P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\obj\Debug\net9.0\C5P2.AssemblyInfoInputs.cache
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\obj\Debug\net9.0\C5P2.AssemblyInfo.cs
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\obj\Debug\net9.0\C5P2.csproj.CoreCompileInputs.cache
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\obj\Debug\net9.0\C5P2.sourcelink.json
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\obj\Debug\net9.0\C5P2.dll
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\obj\Debug\net9.0\refint\C5P2.dll
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\obj\Debug\net9.0\C5P2.pdb
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\obj\Debug\net9.0\C5P2.genruntimeconfig.cache
+C:\code\csharp\CSharpLearn\CSharpLearn\C5\C5P2\C5P2\obj\Debug\net9.0\ref\C5P2.dll
