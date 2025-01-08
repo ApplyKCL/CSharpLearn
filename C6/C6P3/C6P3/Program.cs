@@ -11,7 +11,17 @@ namespace C6P3
             string title = "Please Enter a Title";
             while (!title.Equals("END"))
             {
-                
+                Console.WriteLine("Enter a Title: ");
+                title = Console.ReadLine();
+                if (title.Length > maxLength)
+                {
+                    title = title.Substring(0, maxLength);
+                    Console.WriteLine(title + "...");
+                }
+                else
+                {
+                    Console.WriteLine(title);
+                }
             }
 
         }
