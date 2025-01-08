@@ -1,0 +1,15 @@
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\bin\Debug\net9.0\C7T4.exe
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\bin\Debug\net9.0\C7T4.deps.json
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\bin\Debug\net9.0\C7T4.runtimeconfig.json
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\bin\Debug\net9.0\C7T4.dll
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\bin\Debug\net9.0\C7T4.pdb
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\obj\Debug\net9.0\C7T4.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\obj\Debug\net9.0\C7T4.AssemblyInfoInputs.cache
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\obj\Debug\net9.0\C7T4.AssemblyInfo.cs
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\obj\Debug\net9.0\C7T4.csproj.CoreCompileInputs.cache
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\obj\Debug\net9.0\C7T4.sourcelink.json
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\obj\Debug\net9.0\C7T4.dll
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\obj\Debug\net9.0\refint\C7T4.dll
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\obj\Debug\net9.0\C7T4.pdb
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\obj\Debug\net9.0\C7T4.genruntimeconfig.cache
+C:\code\csharp\CSharpLearn\CSharpLearn\C7\C7T4\C7T4\obj\Debug\net9.0\ref\C7T4.dll
