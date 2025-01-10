@@ -15,12 +15,18 @@ namespace C7T9
             int index = 0;
             foreach (string element in studentList)
             {
-                Console.Write(element + "\t");
-                index++;
-                if (index % 3 == 0)
+                if (index % 3 == 2)
                 {
-                    Console.WriteLine();
+                    DateTime date = DateTime.Parse(element);
+                    string dateStr = string.Format("{0:D}", date);
+                    Console.WriteLine(dateStr);
                 }
+                else
+                {
+                    Console.Write(element + "\t");
+                }
+                
+                index++;
             }
 
         }
