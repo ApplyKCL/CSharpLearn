@@ -25,6 +25,12 @@ namespace C7P5
                     {
                         board[row][col] = 'X';
                     }
+
+                    if (checkWinner(board))
+                    {
+                        printBoard(board);
+                        break;
+                    }
                     round++;
                 }
                 else
@@ -33,9 +39,7 @@ namespace C7P5
                 }
                 printBoard(board);
             }
-
         }
-        
         static char [][] GetBoard(int n)
         {
             char [][] board = new char [n][];
@@ -75,16 +79,46 @@ namespace C7P5
             }
         }
         
-        static void checkWinner(char [][] board)
+        static bool checkWinner(char [][] board)
         {
             for(int i = 0; i < board.Length; i++)
             {
                 for (int j = 0; j < board[i].Length; j++)
                 {
-                    
+                    if(j + 4 < board[i].Length && board[i][j] == 'X' && board[i][j + 1] == 'X' && board[i][j + 2] == 'X' && board[i][j + 3] == 'X' && board[i][j + 4] == 'X')
+                    {
+                        Console.WriteLine("X wins");
+                        return true;
+                    }
+                    if(j + 4 < board[i].Length && board[i][j] == 'O' && board[i][j + 1] == 'O' && board[i][j + 2] == 'O' && board[i][j + 3] == 'O' && board[i][j + 4] == 'O')
+                    {
+                        Console.WriteLine("O wins");
+                        return true;
+                    }
+                    if(i + 4 < board.Length && board[i][j] == 'X' && board[i + 1][j] == 'X' && board[i + 2][j] == 'X' && board[i + 3][j] == 'X' && board[i + 4][j] == 'X')
+                    {
+                        Console.WriteLine("X wins");
+                        return true;
+                    }
+                    if(j+4 < board.Length && board[i][j] == 'O' && board[i + 1][j] == 'O' && board[i + 2][j] == 'O' && board[i + 3][j] == 'O' && board[i + 4][j] == 'O')
+                    {
+                        Console.WriteLine("O wins");
+                        return true;
+                    }
+                    if(i + 4 < board.Length && j + 4 < board[i].Length && board[i][j] == 'X' && board[i + 1][j + 1] == 'X' && board[i + 2][j + 2] == 'X' && board[i + 3][j + 3] == 'X' && board[i + 4][j + 4] == 'X')
+                    {
+                        Console.WriteLine("X wins");
+                        return true;
+                    }
+                    if(i + 4 < board.Length && j + 4 < board[i].Length && board[i][j] == 'O' && board[i + 1][j + 1] == 'O' && board[i + 2][j + 2] == 'O' && board[i + 3][j + 3] == 'O' && board[i + 4][j + 4] == 'O')
+                    {
+                        Console.WriteLine("O wins");
+                        return true;
+                    }
                 }
             }
-            
+
+            return false;
         }
     }
 }
